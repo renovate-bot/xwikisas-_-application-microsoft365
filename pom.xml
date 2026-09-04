@@ -32,7 +32,7 @@
 	<description>This extension allows users to integrate with the Microsoft 365
   	cloud suite (office.com, Word, Excel, PowerPoint).</description>
   <properties>
-    <licensing.version>1.24.3</licensing.version>
+    <licensing.version>1.32.4</licensing.version>
     <xwiki.minversion>11.10</xwiki.minversion>
     <azuread.version>1.6-SNAPSHOT</azuread.version>
   </properties>
